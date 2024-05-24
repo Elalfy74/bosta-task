@@ -1,0 +1,60 @@
+{
+  "header": {
+    "links": {
+      "home": "home",
+      "pricing": "pricing",
+      "talkToSales": "talk to sales"
+    },
+    "loginBtn": "login",
+    "trackShipment": {
+      "btn": "track shipment",
+      "label": "track your shipment",
+      "placeholder": "tracking number"
+    }
+  },
+  "trackShipments": {
+    "title": "Track Your Order",
+    "subTitle": "All order updates will be available through this link"
+  },
+  "trackingShipmentDetails": {
+    "shipmentDetails": {
+      "title": "Shipment Details",
+      "labels": {
+        "branch": "branch",
+        "date": "Date",
+        "time": "Time",
+        "details": "Details"
+      },
+      "shipmentStatus": {
+        "TICKET_CREATED": "ticket created",
+        "PACKAGE_RECEIVED": "package received",
+        "IN_TRANSIT": "in transit",
+        "OUT_FOR_DELIVERY": "out for delivery",
+        "CANCELLED": "cancelled",
+        "DELIVERY_FAILED": "delivery failed",
+        "DELIVERED": "delivered",
+        "NOT_YET_SHIPPED": "not yet shipped",
+        "AVAILABLE_FOR_PICKUP": "available for pickup",
+        "WAITING_FOR_CUSTOMER_ACTION": "waiting for customer action"
+      }
+    },
+    "shipmentSummary": {
+      "shipmentStatus": {
+        "delivered": "delivered",
+        "cancelled": "cancelled",
+        "notDelivered": "not delivered yet"
+      },
+      "shipmentNumber": "Shipment number",
+      "lastUpdate": "Last update",
+      "providerName": "Provider name",
+      "promisedDate": "Promised date"
+    },
+    "shipmentAddress": {
+      "title": "Shipment Address"
+    },
+    "callSupport": {
+      "isThereProblem": "Is there a problem with your shipment?",
+      "btn": "Report a problem"
+    }
+  }
+}

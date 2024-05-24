@@ -1,0 +1,60 @@
+{
+  "header": {
+    "links": {
+      "home": "الرئيسية",
+      "pricing": "الأسعار",
+      "talkToSales": "كلم المبيعات"
+    },
+    "loginBtn": "تسجيل الدخول",
+    "trackShipment": {
+      "btn": "تتبع شحنتك",
+      "label": "تتبع شحنتك",
+      "placeholder": "رقم الشحنة"
+    }
+  },
+  "trackShipments": {
+    "title": "تتبع شحنتك",
+    "subTitle": "كل تحديثات الشحنات سيتم عرضها عن طريق هذا الرابط"
+  },
+  "trackingShipmentDetails": {
+    "shipmentDetails": {
+      "title": "تفاصيل الشحنة",
+      "labels": {
+        "branch": "الفرع",
+        "date": "التاريخ",
+        "time": "الوقت",
+        "details": "التفاصيل"
+      },
+      "shipmentStatus": {
+        "TICKET_CREATED": "تم انشاء الشحنة",
+        "PACKAGE_RECEIVED": "تم استلام الشحنة من التاجر",
+        "IN_TRANSIT": "الشحنة خرجت للتسليم",
+        "OUT_FOR_DELIVERY": "الشحنة جاهزة للتسليم",
+        "CANCELLED": "تم الغاء الشحنة",
+        "DELIVERY_FAILED": "لم يتم تسليم الشحنة",
+        "DELIVERED": "تم التسليم",
+        "NOT_YET_SHIPPED": "لم يتم تسليم الشحنة",
+        "AVAILABLE_FOR_PICKUP": "الشحنة جاهزة للشحن",
+        "WAITING_FOR_CUSTOMER_ACTION": "في انتظار متابعة العميل"
+      }
+    },
+    "shipmentSummary": {
+      "shipmentStatus": {
+        "delivered": "تم تسليم الشحنة",
+        "cancelled": "تم الغاء الشحنة",
+        "notDelivered": "لم يتم تسليم الشحنة"
+      },
+      "shipmentNumber": "رقم الشحنة",
+      "lastUpdate": "اخر تحديث",
+      "providerName": "اسم التاجر",
+      "promisedDate": "موعد التسليم خلال"
+    },
+    "shipmentAddress": {
+      "title": "عنوان الشحنة"
+    },
+    "callSupport": {
+      "isThereProblem": "هل هناك مشكلة في شحنتك؟",
+      "btn": "تقديم شكوى"
+    }
+  }
+}
