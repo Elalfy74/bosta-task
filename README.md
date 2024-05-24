@@ -1,5 +1,6 @@
 <br />
 <div align="center">
+  <img src="assets/favicon.ico" width="50" height="50">
   <h3 align="center">Bosta App</h3>
 
   <p align="center">
@@ -10,11 +11,19 @@
   <details>
   <summary>Table of Contents</summary>
   <ol>
-    <>
+    <li>
       <a href="#about-the-project">About The Project</a>
+    </li>
+    <li>
       <a href="#screen-shots">Screen Shots</a>
+    </li> 
+    <li>
       <a href="#limitations">Limitations</a>
+    </li>
+    <li>
       <a href="#possible-improvements">Possible Improvements</a>
+    </li>
+    <li>
       <a href="#built-with">Built With</a>
     </li>
     <li>
